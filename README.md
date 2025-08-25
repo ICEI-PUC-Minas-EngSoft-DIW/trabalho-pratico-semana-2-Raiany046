@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`![public/TI.png]`
+`![imgs/TI.png]`
