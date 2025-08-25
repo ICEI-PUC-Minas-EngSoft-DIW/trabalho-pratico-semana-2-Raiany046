@@ -1,0 +1,19 @@
+/*Associação pelo nome do elemento*/
+h1{color: black;}
+/*Associação pelo ID DO ELEMENTO*/
+#tit_1{font-size: 40px;}
+/*Associação pela CLASSE DO ELEMENTO*/
+.curriculum_vitae {font-size: large;} 
+table {width: 45%;}
+table caption {font-weight: bolder;
+font-size: 30px;}
+ 
+th{background-color: gray;
+    color: white;}
+    #cabecalho{width:60%;
+        float: left;
+    height: 50vh; /* 40% da altura da viewport */
+background-color: bisque;}
+    #conteudo{color:rgb(0, 0, 0);
+    float: left; height: 50vh;background-color: bisque;width: 40%;
+}
