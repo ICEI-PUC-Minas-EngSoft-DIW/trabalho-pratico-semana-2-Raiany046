@@ -6,4 +6,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![print](imgs/TI.png)
+![print](imgs/2025-08-24.png)
